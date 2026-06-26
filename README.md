@@ -4,30 +4,19 @@
 
 ## 👋 Introduction
 
-I'm a passionate **Software Developer** with a strong interest in **Web Development** and a keen enthusiasm for **Artificial Intelligence (AI)**. With a drive to create innovative solutions, I'm always looking to explore new technologies and collaborate with like-minded individuals. My journey in software development is focused on building scalable, efficient, and user-friendly applications that make a positive impact. I'm excited to share my projects, learn from others, and contribute to the open-source community.
+I'm a **Full Stack Web Developer** with a passion for building innovative and scalable web applications. With expertise in both front-end and back-end development, I enjoy working on projects that require a deep understanding of the entire web development stack. I'm excited to share my projects and collaborations on GitHub, and I'm looking forward to connecting with like-minded developers and learning from their experiences.
 
 ---
 
 ## 🛠️ Tech Stack
 
-I work with a variety of technologies to build scalable and efficient solutions.
+My tech stack includes a variety of programming languages and frameworks.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML-FF9900?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-0080FF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </div>
 
 ---
@@ -35,33 +24,33 @@ I work with a variety of technologies to build scalable and efficient solutions.
 ## 📊 GitHub Stats
 
 <div align="center" style="margin: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinav550-lol&theme=dark" alt="Contribution Stats" />
+  <img src="http://localhost:3000/api/profile/card/contribution-stats?username=abhinav550-lol&color_scheme=dark" alt="Contribution Stats" />
 </div>
 
 <div align="center" style="margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhinav550-lol&theme=github_dark" alt="Language Stats" />
+  <img src="http://localhost:3000/api/profile/card/language-stats?username=abhinav550-lol&color_scheme=dark" alt="Language Stats" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-I'm passionate about developing innovative solutions that solve real-world problems. Some of my notable projects include:
+I'm passionate about developing innovative solutions that solve real-world problems, leveraging AI, full-stack development, and natural language processing to create impactful platforms. Some of my notable projects include:
 
+* [CareerForgePro](https://github.com/abhinav550-lol/careerforge-pro) — CareerForge Pro is an **AI-powered resume enhancement tool** that helps users tailor their resumes for specific job roles using **Gemini 3 Flash** and a **MERN stack**. It provides actionable career intelligence and dominates the modern job market with its **AI-First SaaS** approach. The platform ensures resumes are optimized for ATS, improving clarity and impact.
 
-* [CineCritic](https://github.com/abhinav550-lol/cine-critic) — CineCritic is a full-stack movie review platform where users can discover films, share reviews, and explore community opinions on movies. It features authentication, user profiles, review interactions, and a responsive UI, providing a modern and interactive experience for movie enthusiasts using the **MERN Stack**. The platform allows users to browse movies, write reviews, and manage their favorite movies.
+* [CineCritic](https://github.com/abhinav550-lol/cine-critic) — CineCritic is a **full-stack movie review platform** built with the **MERN Stack**, allowing users to discover films, share reviews, and explore community opinions on movies. It features **authentication, user profiles, review interactions, and responsive UI**, providing a modern and interactive experience for movie enthusiasts.
 
-
-* [ClubConnect](https://github.com/abhinav550-lol/clubconnect) — ClubConnect is an AI-powered college club management platform built with **FastAPI**, **PostgreSQL**, and **SQLAlchemy**. It features JWT authentication, club management, applications, events, QR attendance, AI recommendations, and analytics, providing a comprehensive solution for college club management. The platform includes role-based access, auto-generated QR codes, and pluggable recommender and chatbot systems.
+* [OpsMindAI](https://github.com/abhinav550-lol/ops-mind-ai) — OpsMindAI is an **AI-powered platform** where companies upload Standard Operating Procedure (SOP) documents, and users query them through natural language using **RAG (Retrieval-Augmented Generation)**. It features a **Company Portal** for managing SOP documents, a **User Portal** for exploring published SOPs, and an **AI Chat** for multi-turn conversational Q&A grounded in company SOP documents.
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abhinav-mishra-53a504286/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://www.instagram.com/abhinav550_" target="_blank"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
-  <a href="https://github.com/abhinav550-lol" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+  <a href="https://github.com/abhinav550-lol/" target="_blank"><img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+  <a href="https://www.linkedin.com/in/abhinav-mishra-53a504286/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="mailto:maabhinav550@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
 </div>
 <br>
-Let's connect and collaborate on exciting projects.
+Feel free to connect with me on these platforms.
