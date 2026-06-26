@@ -4,19 +4,27 @@
 
 ## 👋 Introduction
 
-I'm a **Full Stack Web Developer** with a passion for building innovative and scalable web applications. With expertise in both front-end and back-end development, I enjoy working on projects that require a deep understanding of the entire web development stack. I'm excited to share my projects and collaborations on GitHub, and I'm looking forward to connecting with like-minded developers and learning from their experiences.
+As a skilled **Full Stack Developer**, I bring a passion for building innovative and scalable solutions to the table. With a strong foundation in both front-end and back-end development, I am dedicated to crafting high-quality applications that meet the needs of users. I am excited to share my projects and collaborations on GitHub, and I look forward to connecting with like-minded developers and learning from their experiences.
 
 ---
 
 ## 🛠️ Tech Stack
 
-My tech stack includes a variety of programming languages and frameworks.
+My technical expertise includes a range of programming languages, frameworks, and tools.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-skyblue?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-gray?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-orange?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Docker-navy?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-red?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-brown?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AWS-lightgrey?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ---
@@ -35,22 +43,21 @@ My tech stack includes a variety of programming languages and frameworks.
 
 ## 🚀 Featured Projects
 
-I'm passionate about developing innovative solutions that solve real-world problems, leveraging AI, full-stack development, and natural language processing to create impactful platforms. Some of my notable projects include:
+I'm passionate about developing innovative solutions that solve real-world problems. Some of my notable projects include:
 
-* [CareerForgePro](https://github.com/abhinav550-lol/careerforge-pro) — CareerForge Pro is an **AI-powered resume enhancement tool** that helps users tailor their resumes for specific job roles using **Gemini 3 Flash** and a **MERN stack**. It provides actionable career intelligence and dominates the modern job market with its **AI-First SaaS** approach. The platform ensures resumes are optimized for ATS, improving clarity and impact.
+* [CareerForgePro](https://github.com/abhinav550-lol/careerforge-pro) — CareerForge Pro is an AI-powered resume enhancement tool that helps users tailor their resumes for specific job roles using **AI-First SaaS** and the **MERN stack**. It provides actionable career intelligence and moves beyond static interfaces. The system intelligently rewrites bullet points to align with job description keywords.
 
-* [CineCritic](https://github.com/abhinav550-lol/cine-critic) — CineCritic is a **full-stack movie review platform** built with the **MERN Stack**, allowing users to discover films, share reviews, and explore community opinions on movies. It features **authentication, user profiles, review interactions, and responsive UI**, providing a modern and interactive experience for movie enthusiasts.
+* [CineCritic](https://github.com/abhinav550-lol/cine-critic) — CineCritic is a full-stack movie review platform built with the **MERN Stack**, allowing users to discover films, share reviews, and explore community opinions on movies. It features **authentication, user profiles, review interactions, and responsive UI**. Users can browse movies, write reviews, and manage their favorite movies.
 
-* [OpsMindAI](https://github.com/abhinav550-lol/ops-mind-ai) — OpsMindAI is an **AI-powered platform** where companies upload Standard Operating Procedure (SOP) documents, and users query them through natural language using **RAG (Retrieval-Augmented Generation)**. It features a **Company Portal** for managing SOP documents, a **User Portal** for exploring published SOPs, and an **AI Chat** for multi-turn conversational Q&A grounded in company SOP documents.
+* [OpsMindAI](https://github.com/abhinav550-lol/ops-mind-ai) — OpsMindAI is an AI-powered platform where companies upload Standard Operating Procedure (SOP) documents, and users query them through natural language using **RAG (Retrieval-Augmented Generation)**. It features a **Company Portal, User Portal, AI Chat, and Quick Ask** for multi-turn conversational Q&A grounded in company SOP documents.
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/abhinav550-lol/" target="_blank"><img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
-  <a href="https://www.linkedin.com/in/abhinav-mishra-53a504286/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="mailto:maabhinav550@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>
+  <a href="https://github.com/abhinav550-lol" target="_blank"><img src="https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+
 </div>
 <br>
-Feel free to connect with me on these platforms.
+Let's connect and collaborate on exciting projects.
